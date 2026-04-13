@@ -1,0 +1,17 @@
+day,city,weather,temp,windspeed
+01-01-2024,bhopal,fog,24,10
+01-05-2024,indore,sunny,35,5
+01-03-2024,bhopal,rainy,20,18
+01-04-2024,bhopal,fog,20,16
+01-05-2024,indore,sunny,35,5
+01-05-2024,indore,sunny,35,5
+,,,,
+01-08-2024,ujjain,rainy,19,17
+01-09-2024,ujjain,fog,,
+01-04-2024,bhopal,fog,20,16
+01-01-2024,bhopal,fog,24,10
+01-07-2024,ujjain,sunny,38,3
+,indor,sunny,56,4
+01-05-2024,indore,sunny,35,5
+01-05-2024,indore,sunny,35,5
+01-05-2024,indore,sunny,35,5
